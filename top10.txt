@@ -1,0 +1,15 @@
+     13  cd cs215s14
+     15  emacs larsonP1.cpp
+     16  cd cs215s14/
+     16  g++ -g main.cpp controller.cpp view.cpp repository.cpp article.cpp -lcurl
+     17  cd Projects/
+     20  g++ larsonP1.cpp -o P1.out
+     21  ./L05.out words.txt
+     21  logout
+     23  cd
+     31  g++ Lab05.cpp -o L05.out
+     32  ./TP01.out
+     67  g++ TESTP01.cpp -o TP01.out
+     70  emacs TESTP01.cpp
+    160  ls
+   1000 
